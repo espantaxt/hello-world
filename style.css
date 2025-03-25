@@ -1,1 +1,23 @@
-html
+
+
+
+body{
+    background-color:#305050;
+ color:white;
+ text-align: center;
+ padding: 0 24px;
+    font-size: 20px;    
+    }
+
+    .texto-1{
+
+    color: #ffa500;
+    font-size: 24px;
+
+
+    }
+    .texto-2{
+
+        color: #ffa500;
+        font-size: 24px;
+    }
